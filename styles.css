@@ -21,10 +21,13 @@ a {
   text-decoration: none;
 }
 
-nav ul li {
+li {
   display: block;
   float: left;
-  margin: 30px;
+  color: #f2f2f2;
+  font-size: 30px;
+  font-weight: bolder;
+  margin: 0px;
   padding: 10px;
 }
 
@@ -33,7 +36,6 @@ nav ul li {
   float: left;
   width: 100%;
 }
-
 
 .quote, .services {
   float: left;
