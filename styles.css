@@ -11,3 +11,11 @@ body {
   margin: 0 auto;
   width: 800px;
 }
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
