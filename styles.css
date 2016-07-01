@@ -1,4 +1,13 @@
 html {
   background: url(images/black-b.jpg);
   background-size: cover;
+  height: 100%;
+}
+
+body {
+   background-color:#000000;
+  color:#f2f2f2;
+  height: 100%;
+  margin: 0 auto;
+  width: 800px;
 }
