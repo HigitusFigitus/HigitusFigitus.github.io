@@ -22,9 +22,6 @@ a {
 }
 
 nav ul li {
-  border-color: #ffffff;
-  border-radius: 20%;
-  border-style: solid;
   display: block;
   float: left;
   margin: 30px;
