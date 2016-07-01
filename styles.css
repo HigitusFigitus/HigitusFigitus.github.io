@@ -1,3 +1,4 @@
 html {
-  background-color: pink;
+  background: url(images/black-b.jpg);
+  background-size: cover;
 }
