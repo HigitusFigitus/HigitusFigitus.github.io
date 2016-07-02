@@ -32,6 +32,10 @@ main {
   top: 100px;
 }
 
+ul {
+  margin: 10px;
+}
+
 li {
   font-size: 20px;
   font-weight: bolder;
@@ -54,6 +58,16 @@ a:hover {
 
 a:active {
   color:#f2f2f2;
+}
+
+#home-bar {
+  margin-right: 50px;
+}
+#about-bar {
+  margin-right: 50px;
+
+}
+#contact-bar {
 }
 
 blockquote {
