@@ -6,7 +6,7 @@ html {
 
 body {
   background-color:#000000;
-  color:#f2f2f2;
+  color:#778899;
   font-family: 'Courier';
   max-width: 60%;
   margin: 0 auto;
@@ -22,14 +22,18 @@ main {
 }
 
 nav {
-  background-color: #002699;
+  background-color: #00264d;
   position: relative;
   width: 100%;
 }
 
 main {
   position: relative;
-  top: 100px;
+  top: 10px;
+}
+
+h1 {
+  padding: 10px;
 }
 
 ul {
@@ -46,18 +50,34 @@ li {
 a {
   color:#f2f2f2;
   text-decoration: none;
+  border-color: #00264d ;
+  border-radius: 50px;
+  border-style: solid;
+  padding: 3px;
 }
 
 a:visited {
   color:#f2f2f2;
+  border-color: #00264d;
+  border-radius: 50px;
+  border-style: solid;
+  padding: 3px;
 }
 
 a:hover {
   color:#000000;
+  border-color: #000000;
+  border-radius: 50px;
+  border-style: solid;
+  padding: 3px;
 }
 
 a:active {
-  color:#f2f2f2;
+  color:#000000;
+  border-color: #000000;
+  border-radius: 50px;
+  border-style: solid;
+  padding: 3px;
 }
 
 #home-bar {
@@ -65,17 +85,26 @@ a:active {
 }
 #about-bar {
   margin-right: 50px;
-
 }
+
 #contact-bar {
+  margin-right: 20px;
 }
 
 blockquote {
-border-left: 4px solid #002699;
-color: #a5a4a4;
-font-style: bold;
-margin: 30px 0 30px 15px;
-padding-left: 15px;
+  border-left: 4px solid #00264d;
+  color: #778899;
+  display: block;
+  font-style: bold;
+  margin: 30px 0 30px 15px;
+  padding-left: 15px;
+  padding: 10px;
+}
+
+blockquote cite {
+  display: block;
+  text-align: right;
+  margin-right:10px;
 }
 
 #service1,
