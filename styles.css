@@ -66,16 +66,16 @@ a:visited {
 }
 
 a:hover {
-  color:#000000;
-  border-color: #000000;
+  color:#778899;
+  border-color: #778899;
   border-radius: 50px;
   border-style: solid;
   padding: 3px;
 }
 
 a:active {
-  color:#000000;
-  border-color: #000000;
+  color:#778899;
+  border-color: #778899;
   border-radius: 50px;
   border-style: solid;
   padding: 3px;
