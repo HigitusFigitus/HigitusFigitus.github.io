@@ -128,3 +128,13 @@ h2 {
   margin-left: 50px;
   padding: 20px;
 }
+
+@media screen and (max-width: 713px) {
+  body,
+  blockquote,
+  h2,
+  .service {
+    font-size: 12px;
+}
+
+/* To do: Add responsiveness to align elements vertically under 713px */
